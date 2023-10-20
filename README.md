@@ -101,8 +101,8 @@ ___
 
 <!-- Contact -->
 ## Contact
-For questions or feedback, please contact : Deepak kumar singh   -
-- Maild Id : deepakbaitha7905@gmail.com
+For questions or feedback, please contact : Anjali Ingale   -
+- Maild Id : anjaliingale5@gmail.com
 
 <h1 align="center">Thank You...<h1>
 <h3 align = "center"> ***********************************************************<h3>
